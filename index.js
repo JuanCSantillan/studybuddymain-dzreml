@@ -195,4 +195,3 @@ function showFriendsFace(){
 }
 
 var pc = new RTCPeerConnection(serves);
-asdasd
